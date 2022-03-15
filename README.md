@@ -31,6 +31,14 @@ devices have yet to be developed.
 ### Graphical representation and associated probabilities:
 ![alt text](https://github.com/CarolinaKra/LifeSavingDSS/blob/main/graph.png)
 
-### Example of a Query to the Bayesian Network
+### Initial Probabilities of Output Node based only on Prior Probabilities (no further evidence)
+![alt text](https://github.com/CarolinaKra/LifeSavingDSS/blob/main/InitialProbabilities.png)
+
+### Example of Quering the Network giving evidence
+My friend is has drown in the swimming pool and I managed to take him out. He is unconcious, his smartwatch detects a low saturation value but detects heart rate, what should I do?
+
+![alt text](https://github.com/CarolinaKra/LifeSavingDSS/blob/main/m2mprobabilities.png)
+
+
 
 
