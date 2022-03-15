@@ -6,9 +6,10 @@ I developed a Decision Support System using a Bayesian Network to decide the bes
 * **Packages:** pgmpy, numpy, networkx, matplotlib
 
 ## Project Overview
-* Based on the Background set Task, Objectives and Constrains
-* Set Conseputal Design of the DSS
-* Implementation of the DSS using Bayesian Network as a knowledge model
+* Developed a Decision Support System (DSS) that can determine whether a person needs resuscitation using user inputs into an app and live data from wearable devices.
+* Set Objective, Task and Constrains
+* Create a Conseputal Design of the DSS
+* Implementation of the DSS using Bayesian Network as a knowledge model in python
 * Query the DSS to obtain the best decision in different scenarios
 
 ### Project Objective
