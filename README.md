@@ -29,6 +29,8 @@ suitable for resuscitation of babies, toddlers, and small children for whom wear
 devices have yet to be developed.
 
 ### Graphical representation and associated probabilities:
+![alt text](https://github.com/CarolinaKra/LifeSavingDSS/blob/main/graph.png)
 
+### Example of a Query to the Bayesian Network
 
 
