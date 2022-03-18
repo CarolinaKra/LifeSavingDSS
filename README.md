@@ -8,9 +8,9 @@ I developed a Decision Support System using a Bayesian Network to decide the bes
 ## Project Overview
 * Developed a Decision Support System (DSS) that can determine whether a person needs resuscitation using user inputs into an app and live data from wearable devices.
 * Set Objective, Task and Constrains
-* Create a Conseputal Design of the DSS
-* Implementation of the DSS using Bayesian Network as a knowledge model in python
-* Query the DSS to obtain the best decision in different scenarios
+* Created a Conseptual Design of the DSS
+* Implemented a DSS using Bayesian Network as a knowledge model in python
+* Queried the DSS to obtain the best decision in different scenarios
 
 ### Project Objective
 Develop a Decision Support System that can determine whether a person needs
